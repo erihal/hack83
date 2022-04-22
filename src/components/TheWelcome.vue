@@ -8,7 +8,11 @@ import IconSupport from "./icons/IconSupport.vue";
     <template #icon>
       <IconSupport />
     </template>
-    <template #heading>Spotify</template>
-    <a target="_blank" href="#">playlist</a>
+    <template #heading>Playlist</template>
+    <a
+      target="_blank"
+      href="https://open.spotify.com/playlist/2tepnoLFxvCtOIONW1SbNT?si=c581c39f57db4d55&pt=bd05651f45d688b83f5f56eb8c6aeaa9"
+      >colab</a
+    >
   </WelcomeItem>
 </template>

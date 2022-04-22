@@ -8,9 +8,9 @@ import HelloWorld from "@/components/HelloWorld.vue";
     <div class="wrapper">
       <HelloWorld msg=".hack83" />
 
-      <nav>
+      <!-- <nav>
         <RouterLink to="/">Spotify</RouterLink>
-      </nav>
+      </nav> -->
     </div>
   </header>
 
